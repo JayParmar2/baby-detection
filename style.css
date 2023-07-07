@@ -1,0 +1,26 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#status,
+#no_objects {
+    font-size: 18px;
+}
+
+.footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: antiquewhite;
+    font-size: 20px;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 20px;
+}
